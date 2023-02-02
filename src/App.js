@@ -12,10 +12,8 @@ function App() {
         <Dictionary />
       </div>
       <footer>
-        Coded by Megan Jackson and
-        <a href="https://github.com/66Meg20/dictionary-app">
-          opensourced on GitHub
-        </a>
+        Coded by Megan Jackson and is opensourced on
+        <a href="https://github.com/66Meg20/dictionary-app"> GitHub </a>
       </footer>
     </div>
   );
