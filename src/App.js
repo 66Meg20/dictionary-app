@@ -13,7 +13,14 @@ function App() {
       </div>
       <footer>
         Coded by Megan Jackson and is opensourced on
-        <a href="https://github.com/66Meg20/dictionary-app"> GitHub </a>
+        <a
+          href="https://github.com/66Meg20/dictionary-app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          {" "}
+          GitHub{" "}
+        </a>
       </footer>
     </div>
   );
