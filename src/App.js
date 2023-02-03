@@ -11,6 +11,7 @@ function App() {
         </header>
         <Dictionary />
       </div>
+      <br />
       <footer>
         Coded by Megan Jackson and is opensourced on
         <a
