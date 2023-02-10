@@ -10,12 +10,13 @@ h1 {
   margin: 30px 0;
   text-align: center;
 }
+
 body {
-  background: #ecfeff;
+  background: #ffcccc;
 }
 
 .Dictionary section {
-  background: #b8e1dd;
+  background: #ffebeb;
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
