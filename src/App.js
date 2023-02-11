@@ -13,7 +13,7 @@ function App() {
       </div>
       <br />
       <footer>
-        Coded by Megan Jackson and is opensourced on
+        This project was coded by Megan Jackson and is open-sourced on
         <a
           href="https://github.com/66Meg20/dictionary-app"
           target="_blank"
@@ -21,6 +21,14 @@ function App() {
         >
           {" "}
           GitHub{" "}
+        </a>{" "}
+        and hosted on{" "}
+        <a
+          href="https://fabulous-raindrop-a15715.netlify.app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Netlify
         </a>
       </footer>
     </div>
